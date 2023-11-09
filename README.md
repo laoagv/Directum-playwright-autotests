@@ -1,1 +1,0 @@
-# Directum-playwright-autotests
